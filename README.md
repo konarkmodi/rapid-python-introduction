@@ -3,7 +3,7 @@ Rapid-python-introduction
 
 After giving it a lot of thought, I am now wanting to implement this idea of conducting workshops / tutorials on python at MakeMyTrip specially designed for people who need to deal with lot of scripting.
 
-I have curated the content in such a way, that people can stay away from epiphanies of programming yet write efficient code that help them speed up their tasks.
+I have curated the content in such a way, that people can stay away from perils of programmins but still write efficient code that will help them speed up their tasks.
 
 How :
 =====
