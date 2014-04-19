@@ -24,4 +24,4 @@ My basic workflow:
 
 Syllabus:
 =========
-![Syllabus](http://nbviewer.ipython.org/github/konarkmodi/rapid-python-introduction/blob/master/notebooks/Syllabus.ipynb)
+[Syllabus](http://nbviewer.ipython.org/github/konarkmodi/rapid-python-introduction/blob/master/notebooks/Syllabus.ipynb)
